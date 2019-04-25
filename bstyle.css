@@ -1,0 +1,36 @@
+/*
+{
+	margin: 0;
+	padding: 0;
+}*/
+table
+{
+	
+}
+.cardrow
+{
+	margin: 35px;
+}
+.card-img-top
+{
+	height: 253px;
+}
+.card-deck
+{
+	margin-left: 0px; 
+}
+body
+{
+	background-color: #ffdab9;
+}
+@media (min-width: 576px)
+.card-deck {
+    -ms-flex-flow: row wrap;
+    flex-flow: row wrap;
+    margin-right: 0px; 
+    margin-left: 0px;
+}
+.card
+{
+	margin-left: 50px !important;
+}
